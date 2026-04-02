@@ -1,7 +1,7 @@
 {
   "brand_tagline": "Cabinet Stomatologic",
   "city": "Iași",
-  "site_url": "https://dentis.vercel.app/",
+  "site_url": "https://dentis-rust.vercel.app",
   "phone_display": "0332 408 243",
   "email": "dentis.iasi@yahoo.com",
   "instagram_url": "#",
@@ -21,5 +21,5 @@
   "site_title": "Dentis | Stomatologie premium in Iași",
   "site_description": "Dentis ofera servicii stomatologice moderne in Iași, cu accent pe confort, grija si rezultate naturale.",
   "map_embed_url": "https://www.google.com/maps?q=Crisului%20nr%2019%2C%20Ia%C8%99i%2C%20Romania&output=embed",
-  "og_image_url": "https://dentis.vercel.app/img/brand-preview.jpg?v=1775132474"
+  "og_image_url": "https://dentis-rust.vercel.app/img/brand-preview.jpg?v=1775132474"
 }
